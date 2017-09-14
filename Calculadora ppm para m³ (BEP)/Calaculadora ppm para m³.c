@@ -75,6 +75,6 @@ int main (){
     }while(Recomecar == 1);
 
     printf("OBRIGADO!!!!!!!\n");
-
+    system("pause");
 }
 
